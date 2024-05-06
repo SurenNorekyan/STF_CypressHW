@@ -1,0 +1,21 @@
+{
+    "languageOptions": [
+        "ARM",
+        "ENG",
+        "RUS"
+    ],
+    "languageURLs": {
+        "ARM": {
+            "language": "ARM",
+            "url": "https://eldorado.am"
+        },
+        "RUS": {
+            "language": "RUS",
+            "url": "https://eldorado.am/en/"
+        },
+        "ENG": {
+            "language": "ENG",
+            "url": "https://eldorado.am/ru/"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "emptyBasket": {
+    "ARM": {
+      "language": "ARM",
+      "text": "Ձեր զամբյուղում ոչ մի ապրանք չկա"
+    }
+  },
+
+  "basketItem": {
+    "product": "Xiaomi Mi In-Ear Headphones Basic",
+    "price1": "2200",
+    "SKU": "34287",
+    "alt": "Ականջակալ Xiaomi Mi In-Ear Headphones Basic (Silver) ZBW4355TY"
+  }
+}
